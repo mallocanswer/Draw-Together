@@ -32,4 +32,4 @@ The structure of our implementation is as follows:
 ```
 pixelpals.js uses AJAX to catch the users’ movement and handle the events. drawtogether.go is our server which responsible for handling users’ requests. And our Paxos logis is implemented in paxos_impl.go.   
 The structure of the application is as follows:
-<div style="text-align:center"><img src="https://github.com/mallocanswer/draw-together/blob/master/Images/3.png" width="480"/></div>
+<p align="center"><img src="https://github.com/mallocanswer/draw-together/blob/master/Images/3.png" width="480"/></p>
