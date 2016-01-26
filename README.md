@@ -9,7 +9,7 @@ First, use the following command to enter into app directory:
 ```
 cd paxosapp/app
 ```
-** Note ** : Please make sure there is no directory called p3 in the HOME directory. Next, run the script using the following command:
+**Note** : Please make sure there is no directory called p3 in the HOME directory. Next, run the script using the following command:
 ```
 ./run.sh
 ```
