@@ -13,5 +13,5 @@ cd paxosapp/app
 ```
 ./run.sh
 ```
-Wait for the server to start...
+Wait for the server to start... 
 When the server is running, you can visit page: *http://localhost:8080* and *http://localhost:8081* to play the game. Here we assume that there are two servers running on different locations using dif- ferent paxos nodes. Users will choose the nearest one to visit. Although they connect to different servers, they can still draw a picture together because nodes have to follow Paxos to maintain the consistency.
