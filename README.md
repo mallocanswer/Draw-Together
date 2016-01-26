@@ -30,3 +30,7 @@ The structure of our implementation is as follows:
     |-- paxos_api.go
      |-- paxos_impl.go
 ```
+pixelpals.js uses AJAX to catch the users’ movement and handle the events. drawtogether.go is our server which responsible for handling users’ requests. And our Paxos logis is implemented in paxos_impl.go.   
+The structure of the application is as follows:
+![structure](https://github.com/mallocanswer/draw-together/3.png)
+
